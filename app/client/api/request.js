@@ -1,5 +1,5 @@
 const HTTPProtocol = 'http';
-const ServerHostName = 'sandcatgo.com';
+const ServerHostName = '10.0.2.2';
 const ServerPortNumber = 8888;
 const DefaultPostRequestTimeout = 5000;
 const DefaultGetRequestTimeout = 5000;
